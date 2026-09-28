@@ -2,15 +2,22 @@
 
 <!--
 **Harshita-Nanda/Harshita-Nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Harshu 👋
 
-Here are some ideas to get you started:
+🎓 BE Information Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning
+- Java
+- Data Structures & Algorithms
+- Web Development
+- AI
+
+🚀 I love building projects and learning by experimenting.
+
+## 🔧 Tech I'm Exploring
+
+Java • C • Python • HTML • CSS • JavaScript
+
+## 📫 Connect With Me
+
+Linkdln: https://www.linkedin.com/in/harshita-nanda-a0418b3b6/
